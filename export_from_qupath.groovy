@@ -5,7 +5,6 @@
  * Elimina el espacio vacío innecesario, reduciendo significativamente el tamaño.
  * 
  * Características:
- * - Calcula bounding box de anotaciones (ignorando Artifact)
  * - Añade margen configurable
  * - Exporta imagen y máscara con el mismo recorte
  * - Pirámide multinivel coherente

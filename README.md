@@ -20,7 +20,7 @@ Utilities for the **PRECISE** prostate H&E–IHC dataset: tools to visualise, pr
 | `qupath_handler_hne_inmuno.py` | Interactive viewer for paired H&E / HMWCK-AMACR images with clinical metadata overlay. Supports pyramid level switching, synchronised pan/zoom, and PNG export. |
 | `add_stroma.py` | Detects unlabelled tissue regions and assigns them the *Stroma* class (7) in segmentation masks. Processes large images tile-by-tile with configurable threshold, blur, dilation and erosion. |
 | `analyse_regions.py` | Per-instance analysis of connected components per class: area, mean CIELAB colour, 3×3 covariance matrix, and pixel count within a LAB distance threshold. Exports results to CSV. |
-| `export_cropped_inmuno.groovy` | QuPath 0.6+ script that crops images and masks to the annotation bounding box (ignoring Artifact), reducing file size significantly while preserving a coherent pyramid. |
+| `export_cropped_inmuno.groovy` | QuPath 0.6+ script that crops images and builds the masks, reducing file size significantly while preserving a coherent pyramid. |
 
 ### Requirements
 
