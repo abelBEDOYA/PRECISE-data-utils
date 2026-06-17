@@ -1,8 +1,9 @@
 # PRECISE-data-utils
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
-[![Dataset](https://img.shields.io/badge/dataset-PR%C3%89CISE-blue)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI Dataset](https://zenodo.org/badge/DOI/10.5281/zenodo.20721779.svg)](https://doi.org/10.5281/zenodo.20721779)
+[![PAPER](https://img.shields.io/badge/dataset-PRECISE_PLACEHOLDER-red)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](LICENSE.txt)
+
 
 Utilities for the **PRECISE** prostate H&E–IHC dataset: tools to visualise, process and analyse paired whole-slide images and semantic segmentation masks.
 
