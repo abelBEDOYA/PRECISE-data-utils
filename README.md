@@ -107,8 +107,8 @@ prostate_HnE-IHC_dataset/
 ```
 
 - **25 subjects** (sub-01 to sub-25); sub-01 has 3 sessions, the rest have 1 session.
-- **54 paired images** (H&E + HMWCK-AMACR) = 108 whole-slide images, each with its mask = 216 OME-TIFF files.
-- **Total size**: ~52.81 GB.
+- **54 paired images** (H&E + HMWCK-AMACR) = 54 whole-slide images, each with its mask = 108 OME-TIFF files.
+- **Total size**: ~56 GB.
 - Naming: `sub-{XX}_ses-{YY}_{stain}.ome.tif` and `sub-{XX}_ses-{YY}_{stain}_mask.ome.tif`.
 
 ### Image Metadata
